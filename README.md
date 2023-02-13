@@ -4,7 +4,7 @@
 </p>
 
 #  Denise Araújo
-<sub> Graduanda em Gestão da Informação | Universidade Federal de Uberlândia </sub>
+<sub> Graduada em Gestão da Informação | Universidade Federal de Uberlândia </sub>
 
 
 ## Links:
